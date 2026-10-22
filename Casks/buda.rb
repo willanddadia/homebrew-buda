@@ -1,6 +1,6 @@
 cask "buda" do
-  version "0.1.1"
-  sha256 "498c913dd35f189b86e0b689dbdac75c869d74cc8fe6434cb0d4e7ffdb868b4c"
+  version "0.1.2"
+  sha256 "d31b02f5b7408947f9d44e075369d5da0021101eaac0a0a0ee1d674217afa082"
 
   url "https://github.com/willanddadia/homebrew-buda/releases/download/v#{version}/Buda-#{version}.zip"
   name "Buda"
